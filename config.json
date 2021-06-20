@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["852643065923764255"],
+        "ACTIVITY_TEXT": "Keikora Voice System",
+        "GUILD_ID": "802330699763286060",
+        "VOICE_CHANNEL": "825516971285282817",
+        "MIN_STAFF_ROLE": "803296281547374613"
+    },
+    "FILES": {
+        "WELCOME": "default_files/welcome.mp3",
+        "STAFF": "default_files/staff.mp3"
+    },
+    "TOKEN": "ODU2MTMyOTkzNTc0NjMzNTAz.YM8l-w.dNCSnaXaDyfanM2ZiIKyKvjcGOI"
+}
