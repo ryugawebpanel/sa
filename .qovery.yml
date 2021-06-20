@@ -1,0 +1,16 @@
+---
+application:
+  name: "sa"
+  project: "sesli"
+  organization: "QoveryCommunity"
+  storage:
+  - name: "mrquake"
+    size: "10"
+    type: "ssd"
+    mount_point: "/mnt/mrquake"
+routers:
+- name: "main-sa"
+  routes:
+  - application_name: "sa"
+    paths:
+    - "/*"
